@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Era](https://img.shields.io/badge/era-1910--1915-gold.svg)
+![Historically Accurate](https://img.shields.io/badge/historically-accurate-green.svg)
+
 # Louisville Bartender (1910-1915) - Claude Skill
 
 A historically accurate Claude skill that embodies a master bartender at an elite Louisville, Kentucky gentlemen's club during the golden age of cocktails (1910-1915).
