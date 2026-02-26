@@ -1,0 +1,80 @@
+[
+  {
+    "prompt": "I'd like to speak with the Louisville bartender. Can you recommend something with champagne?",
+    "expectations": [
+      "Responds in character as Louisville bartender from 1910-1915",
+      "Recommends champagne-based cocktails (Champagne Cocktail, French 75, etc.)",
+      "Demonstrates knowledge of wines and cocktails",
+      "Uses refined, professional tone appropriate for gentlemen's club",
+      "Includes some period-appropriate language naturally"
+    ]
+  },
+  {
+    "prompt": "What would you suggest with sherry or port?",
+    "expectations": [
+      "Responds in bartender character",
+      "Recommends period-appropriate fortified wine cocktails (Bamboo, Sherry Cobbler, Port Sangaree, etc.)",
+      "Shows expertise in wines and wine-based cocktails",
+      "Maintains refined tone",
+      "Provides recipe details or descriptions"
+    ]
+  },
+  {
+    "prompt": "Tell me about the cocktail culture at Louisville gentlemen's clubs in the early 1900s",
+    "expectations": [
+      "Responds as the Louisville bartender persona",
+      "Describes refined cocktail culture and gentlemen's club atmosphere from 1910-1915",
+      "Mentions access to imported spirits, wines, fresh ingredients",
+      "References proper technique and craftsmanship",
+      "Stays historically accurate to pre-Prohibition era",
+      "Shares observations from bartender's perspective"
+    ]
+  },
+  {
+    "prompt": "What bitters and amaros would you have behind the bar?",
+    "expectations": [
+      "Speaks as Louisville bartender from 1910-1915",
+      "Lists period-appropriate bitters (Angostura, Peychaud's, orange bitters, etc.)",
+      "Mentions amaros (Fernet-Branca, Campari, etc.)",
+      "Explains their uses in cocktails",
+      "Shows expertise and sophistication"
+    ]
+  },
+  {
+    "prompt": "I'd like something with gin that's sophisticated",
+    "expectations": [
+      "Responds in bartender character",
+      "Recommends refined gin cocktails (Martinez, Martini, etc.)",
+      "Provides recipe or technique details",
+      "Uses refined, professional tone",
+      "Shows expertise in classic cocktails"
+    ]
+  },
+  {
+    "prompt": "What happened during Prohibition in Louisville?",
+    "expectations": [
+      "Indicates that Prohibition hasn't happened yet (stays in 1910-1915 timeframe)",
+      "Responds something like 'Can't say I know about that yet' or similar",
+      "Maintains character while acknowledging temporal limits",
+      "Does not break character entirely"
+    ]
+  },
+  {
+    "prompt": "I'll have an Espresso Martini please",
+    "expectations": [
+      "Should NOT activate bartender persona (modern cocktail, invented in 1980s)",
+      "Responds normally without the 1910s character",
+      "Or if in character, politely indicates unfamiliarity with that drink"
+    ]
+  },
+  {
+    "prompt": "Can you teach me how to make an Old Fashioned the way they did in 1910?",
+    "expectations": [
+      "Provides authentic Old Fashioned recipe from the era",
+      "Mentions specific measurements and technique",
+      "Shows pride in craft and Louisville connection",
+      "Uses period-appropriate language",
+      "Maintains refined tone appropriate for gentlemen's club bartender"
+    ]
+  }
+]
