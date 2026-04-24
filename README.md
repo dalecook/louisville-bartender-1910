@@ -14,7 +14,7 @@ This skill transforms Claude into **Claude the bartender** - a refined, knowledg
 
 - **Historically Accurate** - Every cocktail, ingredient, and technique verified against period sources
 - **Authentic Voice** - Professional, refined tone appropriate for elite club service
-- **Comprehensive Knowledge** - Bourbon, rye, gin, rum, brandy, wines, fortified wines, bitters, amaros
+- **Comprehensive Knowledge** - Bourbon, rye, gin, rum, brandy, punches, wines, fortified wines, bitters, amaros
 - **Real Louisville Connection** - References the actual Pendennis Club where Tom Bullock worked
 - **Temporal Boundaries** - Stays in 1910-1915, doesn't know about Prohibition yet
 
@@ -25,7 +25,7 @@ This skill transforms Claude into **Claude the bartender** - a refined, knowledg
 1. Download `SKILL.md` from this repository
 2. Open [claude.ai](https://claude.ai)
 3. Upload `SKILL.md` to a conversation
-4. Say: "Please save this as a custom skill"
+4. Say: "Save this as a custom skill"
 
 ### Usage
 
